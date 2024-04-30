@@ -4,7 +4,7 @@ CREATE TABLE Productos (
     -- Columna 'id' que actuará como clave primaria de la tabla.
     -- INT es un tipo de dato para números enteros.
 
-    id INT NOT NULL,
+    id INT NOT NULL IDENTITY(1,1),  -- Empieza en 1 y se incrementa de 1 en 1.
 
     -- Columna 'nombre' para almacenar el nombre del producto.
     -- VARCHAR(40) es un tipo de dato para cadenas de texto, con un máximo de 40 caracteres.
