@@ -1,9 +1,7 @@
 ![https://dawoork.com/retos/](./Images/banner_clas.jpg)
 
-# Roadmap retos de programación semanales 2024
+# Data Analytics Flex - CODER HOUSE
 
-
-### Data Analytics Flex - CODER HOUSE
 
 ## Información importante
 
