@@ -1,4 +1,4 @@
-![https://retosdeprogramacion.com](./Images/banner_clas.jpg)
+![https://dawoork.com/retos/](./Images/banner_clas.jpg)
 
 # Roadmap retos de programación semanales 2024
 
