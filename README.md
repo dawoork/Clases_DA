@@ -34,7 +34,9 @@ Este repositorio contiene todos los materiales del curso de Data Analytics Flex.
 
 1. **Clona el Repositorio**: Para tener acceso local a todos los materiales, realiza un clon del repositorio usando el siguiente comando en tu terminal:
 
+ ```bash
 git clone https://github.com/dawoork/Clases.git
+ ```
 
 2. **Navega por las Carpetas**: Cada unidad del curso tiene su propia carpeta dentro del repositorio. Dentro de cada carpeta, encontrarás archivos como presentaciones y documentos de práctica.
 
