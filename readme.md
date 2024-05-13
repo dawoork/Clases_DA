@@ -1,7 +1,6 @@
 ![https://dawoork.com/retos/](./Images/banner_clas.jpg)
 
-# Data Analytics Flex - CODER HOUSE - Leandro
-
+# Leandro - Data Analytics Flex - CODER HOUSE
 
 ## Información importante
 
