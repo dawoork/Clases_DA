@@ -24,10 +24,9 @@
 
 ## Roadmap
 
-| # | Clase | PPT | Vídeo | Comunidad |
-|---|-----------|------------|-------|-----------|
-|05|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|[▶️](https://youtu.be/gEIBJ7rmLa0)|[👥](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/)
-
+| # | Clase | PPT | Vídeo | 
+|---|-----------|------------|-------|
+|05|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|[▶️](https://youtu.be/gEIBJ7rmLa0)|
 
 ## Instrucciones
 
