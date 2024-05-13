@@ -9,15 +9,22 @@ Este repositorio está organizado por carpetas que corresponden a las distintas 
 
 ### Unidades del Curso
 
-----
-----
-
-## Roadmap
-
 | # | Clase | PPT | Vídeo | 
 |---|-----------|------------|-------|
+|00|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|01|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|02|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|03|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|04|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
 |05|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
-|05|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|06|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|07|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|08|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|09|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+|10|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
+
+---
+---
 
 ## Instrucciones
 
