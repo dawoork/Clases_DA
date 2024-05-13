@@ -1,1 +1,1 @@
-[(https://github.com/dawoork/Clases/blob/main/Images/Lenguaje-SQL%2C-sublenguajes-ddl-y-dml.jpg)](https://docs.google.com/presentation/d/16FnlmxRiRR88p1FciP9vdc6MOZEdb154/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)
+[[Presentacion](https://github.com/dawoork/Clases/blob/main/Images/Lenguaje-SQL%2C-sublenguajes-ddl-y-dml.jpg)](https://docs.google.com/presentation/d/16FnlmxRiRR88p1FciP9vdc6MOZEdb154/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)
