@@ -26,31 +26,62 @@ Este repositorio está organizado por carpetas que corresponden a las distintas 
 ---
 ---
 
-## Instrucciones
+## Instrucciones para el Uso del Repositorio
 
-**Haz un [FORK](https://github.com/dawoork/roadmap-retos-datos/fork) del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
+Este repositorio contiene todos los materiales del curso de Data Analytics Flex. Aquí encontrarás las instrucciones para acceder y utilizar estos materiales de manera efectiva.
 
-1. En el proyecto tienes un directorio para cada ejercicio en la carpeta [Roadmap](./Roadmap). Dentro de cada directorio encontrarás un fichero llamado **ejercicio.md** con el enunciado de cada reto.
-2. Si quieres compartir tu propia solución de un ejercicio con la comunidad, crea un fichero de código con tu nombre y extensión, y realiza una [**PULL REQUEST**](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) contra el repositorio.
-3. El fichero de código debe situarse dentro del directorio del reto, en la carpeta correspondiente al lenguaje de programación utilizado (si no existe la carpeta del lenguaje, créala con todas sus letras en minúsculas). Por ejemplo, si has resuelto el reto #00 utilizando otra alternativa y tu usuario de GitHub se llama "dawoork", tu corrección deberá estar en **"Roadmap/#00/soluciones/dawoork.py"**. El título de la Pull Request también debe seguir este formato: **"#[número] - [soluciones]"**. En el ejemplo anterior sería **"#00 - Soluciones"**. Se rechazarán las Pull Request que no sigan este formato o contengan ficheros adicionales.
-4. Cada **SEMANA** (consulta el día en el ejercicio correspondiente) realizaré una transmisión en directo desde **[Twitch](https://twitch.tv/dawoork)** corrigiendo el reto, revisando soluciones de la comunidad y publicando un nuevo ejercicio.
-5. Si necesitas ayuda o quieres comentar cualquier cosa sobre los retos semanales, tienes el canal "reto-semanal” en nuestro servidor de **[Discord](https://dawoork.com/discord)** (también el día y horario de corrección en la sección "Eventos").
-6. Puedes proponer Pull Request con propuestas o correcciones sobre ejercicios del resto de la comunidad si estos poseen errores. De esta manera colaboraremos para crear un repositorio cada vez más valioso.
-7. Si se te solicita un cambio/corrección en una Pull Request, y al cabo de 2 semanas no se muestra nueva actividad, se cerrará esa petición para mantener el repositorio limpio. Por supuesto, puedes volver a enviar la Pull Request cuando quieras.
+### Acceso a los Materiales
+
+1. **Clona el Repositorio**: Para tener acceso local a todos los materiales, realiza un clon del repositorio usando el siguiente comando en tu terminal:
+
+git clone https://github.com/dawoork/Clases.git
+
+2. **Navega por las Carpetas**: Cada unidad del curso tiene su propia carpeta dentro del repositorio. Dentro de cada carpeta, encontrarás archivos como presentaciones y documentos de práctica.
+
+### Uso de los Materiales
+
+3. **Consulta las Presentaciones**: Abre las presentaciones para seguir la teoría y los ejemplos que se discuten en las clases.
+4. **Realiza las Actividades**: Cada unidad puede incluir documentos de actividades o microdesafíos que debes completar para practicar lo aprendido.
+
+### Colaboración
+
+5. **Reporta Problemas o Sugerencias**: Si encuentras algún error en los materiales o tienes sugerencias para mejorarlos, por favor abre un issue en este repositorio explicando el problema o la sugerencia.
+6. **Contribuye con Mejoras**: Si deseas contribuir con correcciones o mejoras a los materiales, puedes hacerlo mediante un pull request. Asegúrate de describir claramente qué cambios has realizado y por qué.
+
+### Mantenimiento del Repositorio
+
+7. **Actualizaciones**: Periodicamente revisaré el repositorio para añadir mejoras y actualizar materiales. Asegúrate de mantener tu copia local sincronizada con el repositorio remoto ejecutando regularmente:
 
 
-## Guía rápida Git y GitHub
+git pull origin main
 
-1. Realiza un [FORK](https://github.com/dawoork/roadmap-retos-datos/fork) del repositorio de retos semanales desde GitHub.
-2. CLONA ese repositorio a tu máquina local `git clone [TU-REPOSITORIO]`.
-3. (Opcional) Crea una RAMA para la solución y desplázate a ella `git checkout -b [EL-NOMBRE-DE-TU-RAMA]`.
-4. Añade el fichero de tu solución al STAGE `git add [FICHERO-DE-TU-RETO]`.
-5. Haz COMMIT con el mensaje de la solución `git commit -m "#[NÚMERO-RETO] - [soluciones]"`.
-6. Haz PUSH `git push [EL-NOMBRE-DE-TU-RAMA]` (puede ser la "main" o la que creaste en el paso 3)
-7. En el repositorio principal debes ir a la rama y hacer [PULL REQUEST](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
-8. CONTRIBUTE.
-9. CREATE PULL REQUEST (cubre la plantilla que te aparecerá).
-10. Si el proceso de entrega se ha realizado de forma correcta, se añadirá tu corrección al repositorio. En caso contrario, se te notificarán los cambios a realizar o los motivos del rechazo.
+
+### Soporte
+
+8. **Pide Ayuda**: Si tienes dudas sobre los materiales o el curso, puedes contactarme directamente a través de (tu dirección de correo electrónico) o abrir un issue en este repositorio.
+
+## Guía Rápida de Git para Estudiantes
+
+Si no estás familiarizado con Git, aquí tienes una guía rápida para empezar:
+
+1. **Fork del Repositorio**: Haz un fork del repositorio para tener una copia en tu cuenta de GitHub, lo cual te permitirá hacer cambios sin afectar el repositorio principal.
+2. **Clone Tu Fork**: Clona tu fork a tu máquina local:
+
+git clone https://github.com/dawoork/Clases.git
+
+3. **Haz tus Cambios**: Realiza cambios o añade nuevos archivos si es necesario.
+4. **Commit y Push**: Guarda tus cambios y subelos a tu repositorio:
+
+ ```bash
+   git add .
+   git commit -m "Descripción de los cambios realizados"
+   git push
+```
+
+5. **Pull Request**: Si deseas que tus cambios se consideren para ser incluidos en el repositorio principal, envía un pull request desde tu fork en GitHub.
+
+Utiliza estas instrucciones para aprovechar al máximo los materiales del curso y contribuir a la mejora continua del mismo.
+
 
 *He creado un curso completo gratis para aprender a trabajar con Git y GitHub desde cero.*
 
