@@ -62,9 +62,8 @@ Este repositorio está organizado por carpetas que corresponden a las distintas 
 
 [![Portafolio Analyst](https://img.shields.io/github/stars/dawoork/portafolio-analyst?label=Portafolio%20Analyst&style=social)](https://github.com/dawoork/portafolio-analyst) [![Portafolio Scientist](https://img.shields.io/github/stars/dawoork/portafolio-scientist?label=Portafolio%20scientist&style=social)](https://github.com/dawoork/portafolio-scientist) 
 
-## Hola, mi nombre es Leandro araque.
 
-### Data Analyst & Data Scientist
+### Data Scientist
 
 [![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
 [![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dawoork.com/discord)
