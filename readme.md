@@ -3,9 +3,7 @@
 # Roadmap retos de programación semanales 2024
 
 
-### Ruta de estudio con ejercicios para mejorar tu lógica de programación y aprender cualquier lenguaje. Gratis, a tu ritmo y en comunidad.
-
-#### [https://dawoork.com/retos/roadmap/](https://dawoork.com/retos/roadmap/)
+### Data Analytics Flex - CODER HOUSE
 
 ## Información importante
 
