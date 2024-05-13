@@ -52,9 +52,9 @@ git clone https://github.com/dawoork/Clases.git
 
 7. **Actualizaciones**: Periodicamente revisaré el repositorio para añadir mejoras y actualizar materiales. Asegúrate de mantener tu copia local sincronizada con el repositorio remoto ejecutando regularmente:
 
-
+ ```bash
 git pull origin main
-
+ ```
 
 ### Soporte
 
@@ -67,7 +67,9 @@ Si no estás familiarizado con Git, aquí tienes una guía rápida para empezar:
 1. **Fork del Repositorio**: Haz un fork del repositorio para tener una copia en tu cuenta de GitHub, lo cual te permitirá hacer cambios sin afectar el repositorio principal.
 2. **Clone Tu Fork**: Clona tu fork a tu máquina local:
 
+ ```bash
 git clone https://github.com/dawoork/Clases.git
+ ```
 
 3. **Haz tus Cambios**: Realiza cambios o añade nuevos archivos si es necesario.
 4. **Commit y Push**: Guarda tus cambios y subelos a tu repositorio:
