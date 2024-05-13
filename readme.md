@@ -1,26 +1,22 @@
 ![https://dawoork.com/retos/](./Images/banner_clas.jpg)
 
-# Leandro - Data Analytics Flex - CODER HOUSE
+# Curso de Data Analytics Flex - CODER HOUSE
 
-## Información importante
+Bienvenido al repositorio del curso de Data Analytics Flex de CODER HOUSE. Este repositorio contiene todos los materiales de apoyo, como presentaciones y documentos de práctica, necesarios para el curso.
 
-* Cada semana se publica un nuevo reto y se corrige en directo desde **[Twitch](https://twitch.tv/dawoork)** el ejercicio de la semana pasada.
-* En la sección "Eventos" de nuestro servidor de **[Discord](https://dawoork.com/discord)** encontrarás el día y horario por país de los directos.
-* **¿Quieres participar?** Te lo explico en la sección **[Instrucciones](https://github.com/dawoork/roadmap-retos-datos#instrucciones)** en este mismo documento.
-* Los retos siguen un orden basado en su ruta de estudio pero si ya tienes conocimientos puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
-* Una vez se haya cumplido la semana de publicación del reto, podrás consultar mi corrección y las de la comunidad en cualquier lenguaje de programación.
+## Estructura del Repositorio
+Este repositorio está organizado por carpetas que corresponden a las distintas unidades y temas tratados en el curso. Cada carpeta contiene los materiales pertinentes como presentaciones en PowerPoint y documentos de actividades.
 
-> Consulta la [web](https://dawoork.com/retos/roadmap) para más información.
+### Unidades del Curso
 
-## Corrección y próximo ejercicio
-
-> #### Lunes DIA de MES de AÑO a las 18:00 (hora Argentina) desde **[Twitch](https://twitch.tv/dawoork)**
-> #### Consulta el **[horario](https://discord.gg/8ke6EqSt?event=1227006064784969818)** por país y crea un **[recordatorio](https://discord.gg/8ke6EqSt?event=1227006064784969818)**
+----
+----
 
 ## Roadmap
 
 | # | Clase | PPT | Vídeo | 
 |---|-----------|------------|-------|
+|05|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
 |05|[Sentencias JOIN y UNION](https://github.com/dawoork/Clases/tree/main/5.%20Lenguaje%20%20SQL%2C%20Sentencias%20JOIN%20y%20UNION)|[📝](https://docs.google.com/presentation/d/1M0XDwBkn6ONKCbzTONet7eND-N3XJr4p/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)|proximamente...|
 
 ## Instrucciones
