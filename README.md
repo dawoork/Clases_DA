@@ -62,7 +62,7 @@ git pull origin main
 
 8. **Pide Ayuda**: Si tienes dudas sobre los materiales o el curso, puedes contactarme directamente a través de (tu dirección de correo electrónico) o abrir un issue en este repositorio.
 
-## Guía Rápida de Git para Estudiantes
+## Guía Rápida de Git
 
 Si no estás familiarizado con Git, aquí tienes una guía rápida para empezar:
 
