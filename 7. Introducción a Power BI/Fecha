@@ -1,0 +1,21 @@
+let
+    Source = ReclamosVariosAños,
+
+// StartDate = Date.From(List.Min(Source[Fecha Reclamo])), // Fecha de inicio TODAS LAS FECHAS
+// EndDate = Date.From(List.Max(Source[Fecha Reclamo])), // Fecha de fin TODAS LAS FECHAS
+
+    StartDate = #date(2019, 1, 1), // Fecha de inicio
+    EndDate = #date(2022, 4, 30), // Fecha de fin
+
+    NumberOfDays = Duration.From(EndDate - StartDate) / #duration (1, 0, 0, 0),
+    DateList = List.Dates(StartDate, NumberOfDays, #duration(1, 0, 0, 0)),
+    CalendarTable = Table.FromList(DateList, Splitter.SplitByNothing()),
+    RenameColumns = Table.RenameColumns (CalendarTable, {{"Column1", "Fecha"}}),
+    AddYear = Table.AddColumn (RenameColumns, "Año", each Date.Year ([Fecha]), Int64.Type), 
+    AddMonthNumber = Table.AddColumn (AddYear, "Mes (Número)", each Date.Month([Fecha]), Int64.Type),
+    AddMonthName = Table.AddColumn(AddMonthNumber, "Mes (Letra)", each Date.ToText([Fecha], "MMMM")),
+    AddMonthAbbreviation = Table.AddColumn(AddMonthName, "Mes (Abreviado)", each Date.ToText([Fecha], "MMM")),
+    AddWeek = Table.AddColumn(AddMonthAbbreviation, "Semana", each Date.WeekOfYear ([Fecha]))
+
+in
+    AddWeek
