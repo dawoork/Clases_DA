@@ -1,0 +1,1 @@
+[![Presentación](https://github.com/dawoork/Clases/blob/main/Images/introduccion-a-data-analytics.jpg)](https://docs.google.com/presentation/d/1p_jjGJIxEh2FL-yAsrziH_FlmHybcrnC/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)

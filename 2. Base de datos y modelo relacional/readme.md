@@ -1,1 +1,0 @@
-[![Presentación](https://github.com/dawoork/Clases/blob/main/Images/Base-de-datos-y-modelo-relacional.jpg)](https://docs.google.com/presentation/d/19PAXnxiz7ZLgt_1s0y4G7GA0Vw3dT89-/edit?usp=drive_link&ouid=114807045256561798882&rtpof=true&sd=true)
