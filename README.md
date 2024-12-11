@@ -109,10 +109,10 @@ Utiliza estas instrucciones para aprovechar al máximo los materiales del curso 
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](https://dawoork.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/leanaraque?style=social)](https://twitter.com/lean_dawoork)
 ![GitHub Followers](https://img.shields.io/github/followers/leanaraque?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/dawoork?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/leanaraque?style=social)
 
 Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. redes sociales como **[@dawoork](https://dawoork.com)**.
 
 ### En mi perfil de GitHub tienes más información
 
-[![Web](https://img.shields.io/badge/GitHub-Dawoork-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dawoork)
+[![Web](https://img.shields.io/badge/GitHub-Dawoork-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/leanaraque)
