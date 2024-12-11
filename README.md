@@ -105,9 +105,9 @@ Utiliza estas instrucciones para aprovechar al máximo los materiales del curso 
 [![Link](https://img.shields.io/badge/Links_de_interés-dawoork.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@leanaraque?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://twitch.com/leanaraque)
+[![Twitch Status](https://img.shields.io/twitch/status/leanaraque?style=social)](https://twitch.com/leanaraque)
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](https://dawoork.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/leanaraque?style=social)](https://twitter.com/lean_dawoork)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leanaraque?style=social)](https://twitter.com/leanaraque)
 ![GitHub Followers](https://img.shields.io/github/followers/leanaraque?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/leanaraque?style=social)
 
