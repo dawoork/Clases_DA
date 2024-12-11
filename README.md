@@ -111,8 +111,8 @@ Utiliza estas instrucciones para aprovechar al máximo los materiales del curso 
 ![GitHub Followers](https://img.shields.io/github/followers/leanaraque?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/leanaraque?style=social)
 
-Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. redes sociales como **[@dawoork](https://dawoork.com)**.
+Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. redes sociales como **[@leanaraque](https://leanaraque.com)**.
 
 ### En mi perfil de GitHub tienes más información
 
-[![Web](https://img.shields.io/badge/GitHub-Dawoork-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/leanaraque)
+[![Web](https://img.shields.io/badge/GitHub-leanaraque-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/leanaraque)
